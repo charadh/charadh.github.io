@@ -7,27 +7,31 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #452358;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
   font-size: 2rem;
+  font-family: 'Playfair Display';
 }
 
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  font-family: 'Playfair Display';
 }
 
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  font-family: 'Poppins';
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
+  font-family: 'Poppins';
 }
 
 p {
@@ -36,7 +40,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #452358;
 }
 
 ul, ol, dl {
@@ -63,19 +67,19 @@ hr {
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: #452358;
   text-transform: uppercase;
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
+    border-bottom: 1px dotted #84C0E6;
   }
 }
 
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
+  color: #84C0E6;
   border-left: .25rem solid #e5e5e5;
 
   p:last-child {

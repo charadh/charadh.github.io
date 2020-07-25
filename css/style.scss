@@ -1,5 +1,5 @@
----
----
+/*---
+---*/
 
 // Variables
 @import "utilities/variables";
@@ -44,6 +44,42 @@
     padding: 0 !important;
 }
 
-.landing-title {
-    background-color: yellow;
+/*regular weight*/
+@font-face {
+    font-family: 'Playfair Display';
+    src: '/c/Users/alaro/charadh.github.io/fonts/PlayfairDisplay-Regular.tff';
+}
+
+/*bold weight*/
+@font-face {
+    font-family: 'Playfair Display';
+    src: '/c/Users/alaro/charadh.github.io/fonts/PlayfairDisplay-Bold.tff';
+    font-weight: bold;
+}
+
+/*italicweight*/
+@font-face {
+    font-family: 'Playfair Display';
+    src: '/c/Users/alaro/charadh.github.io/fonts/PlayfairDisplay-Italic.tff';
+    font-weight: italic;
+}
+
+/*regular weight*/
+@font-face {
+    font-family: 'Poppins';
+    src: '/c/Users/alaro/charadh.github.io/fonts/Poppins-Regular.tff'
+}
+
+/*italic weight*/
+@font-face {
+    font-family: 'Poppins';
+    src: '/c/Users/alaro/charadh.github.io/fonts/Poppins-Italic.tff';
+    font-weight: italic;
+}
+
+/*bold weight*/
+@font-face {
+    font-family: 'Poppins';
+    src: '/c/Users/alaro/charadh.github.io/fonts/Poppins-Bold.tff';
+    font-weight: bold;
 }
