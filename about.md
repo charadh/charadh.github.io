@@ -4,9 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hi! I’m Charlene and this is my website.
+  Hi! I’m Charlene Alaro Adhiambo (she/her)
 </p>
 
-  I recently graduated from Columbia University, and I'm now tackling things in my life in my blog here, and you can see some of my recent literary achievements in my portfolio. Feel free to get in touch with me if you're interested in working together.
+   I describe myself in many ways (which include but are not limited to): playwright, filmmaker, screenwriter, novelist, and musician. In essence, I'm a storyteller. I recently graduated with a B.A. in Creative Writing from Columbia University. I'm always down to collaborate and chat, so reach me at ca2716@columbia.edu.
 
 ![Image of Charlene](https://static01.nyt.com/images/2020/03/08/nyregion/08xp-columbia1/08xp-columbia1-videoSixteenByNineJumbo1600.jpg)
