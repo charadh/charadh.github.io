@@ -6,12 +6,12 @@
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #452358;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
   font-size: 2rem;
+  color: #452358;
 }
 
 h2 {
@@ -74,8 +74,8 @@ abbr {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #84C0E6;
-  border-left: .25rem solid #e5e5e5;
+  color: #f9f9f9;
+  border-left: .25rem solid #E39426;
 
   p:last-child {
     margin-bottom: 0;
