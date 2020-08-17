@@ -6,6 +6,13 @@
 .landing-title {
     color: $post-title-color;
     text-align: center;
-    font-style: italic;
+    font-style: bold;
     padding-bottom: 0.7rem;
+}
+
+.text-center {
+    color:$post-title-color;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: .7rem;  
 }
