@@ -5,7 +5,7 @@ title: Introducing Your Blog
 
 ![placeholder here](/assets/placeholder.png/){: .featuredImage}
 
-## [Video here](/assets/vid.mp4)
+## [Video here](/assets/vid.mp4/)
 
 Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
 
