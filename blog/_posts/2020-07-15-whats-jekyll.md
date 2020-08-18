@@ -3,7 +3,7 @@ layout: post
 title: What's Jekyll?
 img: hello
 ---
-![placeholder here](/assets/placeholder.png/){:.featuredImage}
+![placeholder here](./assets/placeholder.png/){:.featuredImage}
 
 [Jekyll](http://jekyllrb.com/) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
 
