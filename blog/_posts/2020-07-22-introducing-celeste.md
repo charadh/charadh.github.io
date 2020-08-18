@@ -3,7 +3,7 @@ layout: post
 title: Introducing Your Blog
 ---
 
-![placeholder here](/assets/placeholder.png/){.featuredImage}
+![placeholder here](/assets/placeholder.png/){:.featuredImage}
 
 ## [Video here](/assets/vid.mp4/)
 
