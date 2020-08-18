@@ -3,7 +3,7 @@ layout: post
 title: Example content
 ---
 
-![placeholder here](placeholder2.png){:.featuredImage}
+![placeholder here](/assets/placeholder.png){:.featuredImage}
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
