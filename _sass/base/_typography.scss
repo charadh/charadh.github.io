@@ -5,7 +5,7 @@
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  line-height: 1.25;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
 }
 
@@ -67,14 +67,14 @@ abbr {
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted #333333;
+    border-bottom: 1px dotted #222222;
   }
 }
 
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #333333;
+  color: #222222;
   border-left: .25rem solid #E39426;
 
   p:last-child {
