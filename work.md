@@ -25,7 +25,7 @@ An essay in which I reckon with my role as a young, black newcomer to the theatr
 An essay reflecting on having a virtual theatre debut with the staging of my play "Guardian".
 
 #### [Interview with Erika Dickerson-Despenza: ‘Write the Thing that Changes the World’](https://playco.org/erikadickerson-despenza/)
-Interviewed poet-playwright and cultural-memory worker Erika Dickerson-Despenza.
+I interviewed poet-playwright and cultural-memory worker Erika Dickerson-Despenza.
 
 #### [Me & The Mother City](https://alaro18.wixsite.com)
 My blog about lessons and adventures during my semester abroad in Cape Town, South Africa.
