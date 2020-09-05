@@ -58,3 +58,9 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+.blog-title {
+    color: $post-title-color;
+    text-align: left;
+    padding-bottom: 0.7rem;
+}
