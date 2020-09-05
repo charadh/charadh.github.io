@@ -14,7 +14,7 @@ This Halloween the Columbia core might come back to haunt you..Beware the Goddes
 ## Theatre
 
 #### [Guardian (2020), A One-Act](https://instagram.com/saudadetheatre)
-Set in Kenya in 1950, a young Kenyan girl named Anyango, who peddles fruit, meets a strange customer who talks of the future. (Virtually) staged at the Re-Discoveries Festival by Saudade Theatre.
+Set in Kenya in 1950, a young Kenyan girl named Anyango, who peddles fruit, meets a strange customer who talks of the future. Staged at the virtual Re-Discoveries Festival by Saudade Theatre.
 
 ## Publications
 
