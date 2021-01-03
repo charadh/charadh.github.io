@@ -3,7 +3,7 @@ layout: page
 title: My Work
 ---
 
-## Films
+## Film
 
 #### [Hold to Record (2019)](https://vimeo.com/341457011)
 The morning after a night fueled by liquid courage, two best friends realize that they have shared more than words.
@@ -18,11 +18,14 @@ Set in Kenya in 1950, a young Kenyan girl named Anyango, who peddles fruit, meet
 
 ## Publications
 
+#### [PlayCo Joins the Digital Stage](https://playco.org/playco-joins-the-digital-stage/)
+An essay on the significance of my theatre company and others' pivot to digital theatre.
+
 #### [Revisiting August Wilson's "The Ground on Which I Stand"](https://playco.org/revisitingaugustwilson/)
 An essay in which I reckon with my role as a young, black newcomer to the theatre industry.
 
 #### [On Grief, Remembrance, and Theatre](https://playco.org/on-grief-remembrance-and-theatre/)
-An essay reflecting on having a virtual theatre debut with the staging of my play "Guardian".
+An essay reflecting on my virtual theatre debut with the reading of my play "Guardian".
 
 #### [Interview with Erika Dickerson-Despenza: ‘Write the Thing that Changes the World’](https://playco.org/erikadickerson-despenza/)
 I interviewed poet-playwright and cultural-memory worker Erika Dickerson-Despenza.
