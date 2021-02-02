@@ -8,9 +8,6 @@ title: My Work
 #### [Hold to Record (2019)](https://vimeo.com/341457011)
 The morning after a night fueled by liquid courage, two best friends realize that they have shared more than words.
 
-#### [The Parlor Trick (2019), Columbia Undergraduate Sketch Show](https://youtu.be/0ZNGGCVpLj8)
-This Halloween the Columbia core might come back to haunt you..Beware the Goddess Alma!
-
 ## Theatre
 
 #### [Guardian (2020), A One-Act](https://instagram.com/saudadetheatre)
