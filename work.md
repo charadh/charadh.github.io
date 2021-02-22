@@ -3,11 +3,6 @@ layout: page
 title: My Work
 ---
 
-## Film
-
-#### [Hold to Record (2019)](https://vimeo.com/341457011)
-The morning after a night fueled by liquid courage, two best friends realize that they have shared more than words.
-
 ## Theatre
 
 #### [Guardian (2020), A One-Act](https://instagram.com/saudadetheatre)
