@@ -1,7 +1,9 @@
 ---
 layout: page
-title: My Work
+title: Portfolio and Services
 ---
+## Freelance Script Coverage, Copyediting & Sensitivity Reading Services Available on [Fiverr](https://fiverr.com/charleneadh)
+Hire me for your literary needs! With my work in the publishing and theater industries, I have developed a knack for editing and critiquing all forms of writing. Samples of work provided upon request.
 
 ## Theatre
 
@@ -9,6 +11,12 @@ title: My Work
 Set in Kenya in 1950, a young Kenyan girl named Anyango, who peddles fruit, meets a strange customer who talks of the future. Staged at the virtual Re-Discoveries Festival by Saudade Theatre.
 
 ## Publications
+
+#### [What Tina Turner Taught Me](https://catapult.co/stories/charlene-adhiambo-tina-turner-musical-catharsis-grief-family/)
+"In a theater, I am freed by the voices that shake the rafters, the dancing, the lights, and the colors. Musicals are my form of catharsis."
+
+#### [Take a Cue From Poetry](https://griefdeck.com/card/take-a-cue-from-poetry/)
+A poem for the Artists' Grief Deck project.
 
 #### [PlayCo Joins the Digital Stage](https://playco.org/playco-joins-the-digital-stage/)
 An essay on the significance of my theatre company and others' pivot to digital theatre.
