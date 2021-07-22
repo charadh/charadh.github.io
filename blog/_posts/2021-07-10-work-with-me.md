@@ -9,7 +9,7 @@ img: Work With Charlene
 I'm excited to announce that I am now offering freelances services in the form of script coverage, copy editing, and sensitivity reading. Learn more information below and visit my <a href="https://www.fiverr.com/charleneadh">Fiverr</a> to book my services.
 </div> 
 
-![My Services](/assets/myservices.png)
+![My Services](/assets/myservices072221.png)
 
 ![My Rates](/assets/rates.png)
 
