@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Portfolio and Services
+title: Portfolio
 ---
-## Freelance Script Coverage, Copyediting & Sensitivity Reading Services Available on [Fiverr](https://fiverr.com/charleneadh)
-Hire me for your literary needs! With my work in the publishing and theater industries, I have developed a knack for editing and critiquing all forms of writing. Samples of work provided upon request.
 
 ## Theatre
 
