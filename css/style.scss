@@ -53,17 +53,14 @@ h2, h3, h4, h5, h6 {
     color: $post-title-color;
 }
 
-p {
-    font-family: $code-font-stack;
-    color: $post-title-color;
-    font-size: 0.875em;
-}
-
 body {
     background-image: url('/assets/blue.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    font-family: $code-font-stack;
+    color: $body-text-color;
+    font-size: 0.875em;
 }
 
 .blog-title {
