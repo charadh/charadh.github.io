@@ -16,16 +16,16 @@ Set in Kenya in 1950, a young Kenyan girl named Anyango, who peddles fruit, meet
 #### [Take a Cue From Poetry](https://griefdeck.com/card/take-a-cue-from-poetry/)
 A poem for the Artists' Grief Deck project.
 
-#### [PlayCo Joins the Digital Stage](https://playco.org/playco-joins-the-digital-stage/)
+#### [PlayCo Joins the Digital Stage](https://playco.org/community/playco-joins-the-digital-stage/)
 An essay on the significance of my theatre company and others' pivot to digital theatre.
 
-#### [Revisiting August Wilson's "The Ground on Which I Stand"](https://playco.org/revisitingaugustwilson/)
+#### [Revisiting August Wilson's "The Ground on Which I Stand"](https://playco.org/community/revisitingaugustwilson/)
 An essay in which I reckon with my role as a young, black newcomer to the theatre industry.
 
-#### [On Grief, Remembrance, and Theatre](https://playco.org/on-grief-remembrance-and-theatre/)
+#### [On Grief, Remembrance, and Theatre](https://www.playco.org/community/on-grief-remembrance-and-theatre)
 An essay reflecting on my virtual theatre debut with the reading of my play "Guardian".
 
-#### [Interview with Erika Dickerson-Despenza: ‘Write the Thing that Changes the World’](https://playco.org/erikadickerson-despenza/)
+#### [Interview with Erika Dickerson-Despenza: ‘Write the Thing that Changes the World’](https://www.playco.org/community/interview-with-erika-dickerson-despenza)
 I interviewed poet-playwright and cultural-memory worker Erika Dickerson-Despenza.
 
 #### [Me & The Mother City](https://alaro18.wixsite.com)
