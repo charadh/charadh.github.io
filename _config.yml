@@ -18,8 +18,7 @@ sass:
 author:
   name:              Charlene Adhiambo
   url:               https://charlenewebsite.github.io
-  email:             c.adhiambo@columbia.edu
-
+  email:             alaro18@yahoo.com
 plugins:
   - jekyll-coffeescript
   - jekyll-paginate
