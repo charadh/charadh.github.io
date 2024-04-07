@@ -9,6 +9,7 @@ title: Portfolio
 I contributed the short story "Lost and Found" to this amazing collection.
 
 PRAISE FOR BURY YOUR GAYS
+
 "Devastating, thought-provoking, and delightful. It’s a landmark in short horror fiction." — Publishers Weekly, ★ STARRED REVIEW
 
 "A gruesome and decidedly queer patchwork revealing some of the most devastating and unsettling horrors I've ever encountered. Each page of Bury Your Gays: An Anthology of Tragic Queer Horror pulses with a distinct sense of inevitability, a horrifying sureness guiding the reader on a pathway toward destruction, toward utter despair. These pernicious little tales will haunt you long after you've been entombed in the enchantment of their grotesquery." — Eric LaRocca, author of Things Have Gotten Worse Since We Last Spoke
