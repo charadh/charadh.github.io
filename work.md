@@ -3,6 +3,20 @@ layout: page
 title: Portfolio
 ---
 
+## Fiction
+
+#### [Bury Your Gays: An Anthology of Tragic Queer Horror, edited by Sofia Ajram (Ghoulish Books)](https://ghoulish.rip/product/bury-your-gays-an-anthology-of-tragic-queer-horror/)
+I contributed the short story "Lost and Found" to this amazing collection.
+
+PRAISE FOR BURY YOUR GAYS
+"Devastating, thought-provoking, and delightful. It’s a landmark in short horror fiction." — Publishers Weekly, ★ STARRED REVIEW
+
+"A gruesome and decidedly queer patchwork revealing some of the most devastating and unsettling horrors I've ever encountered. Each page of Bury Your Gays: An Anthology of Tragic Queer Horror pulses with a distinct sense of inevitability, a horrifying sureness guiding the reader on a pathway toward destruction, toward utter despair. These pernicious little tales will haunt you long after you've been entombed in the enchantment of their grotesquery." — Eric LaRocca, author of Things Have Gotten Worse Since We Last Spoke
+
+"Bury Your Gays draws pain into a bath, perfumes the water with lavender and bergamot, invites you to strip. Sink in. Stay a while. Drown." — Rae Knowles, author of Merciless Waters
+
+"Bury Your Gays sinks into a darkness that writhes with lust and dreams and death. An entrancing spiral into the countless nightmares of life as a queer person." — Eric Raglin, author of Extinction Hymns
+
 ## Theatre
 
 #### [Guardian (2020), A One-Act](https://instagram.com/saudadetheatre)
