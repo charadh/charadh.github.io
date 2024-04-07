@@ -1,0 +1,59 @@
+---
+layout: post
+title: 'My Favorite Things of 2020'
+img: Charlene's 2020 In Review
+---
+![Charlene's 2020 in Review](/assets/myfavethings.png){:.featuredImage}
+
+<div class="message">
+What a year! I only made it through with the following books, music, and TV/movies. These were my light in the darkness.
+</div>
+
+**Favorite Books (no particular order)**
+* Discworld Series by Terry Pratchett (special shout out to Witches Abroad)
+* Sabrina & Corina by Kali Fajardo-Anstine
+* Daisy Jones & The Six by Taylor Jenkins-Reid
+* The Meaning of Mariah Carey by Mariah Carey
+* Heavy by Kiese Laymon
+* Hitting a Straight Lick with a Crooked Stick by Zora Neale Hurston
+* Go Ahead In the Rain by Hanif Abdurraqib
+* Little Eyes by Samanta Schweblin
+* In West Mills by De’Shawn Charles Winslow
+* The Coldest Winter Ever by Sister Souljah
+* The Southern Book Club’s Guide to Slaying Vampires by Grady Hendrix
+* Maybe You Should Talk to Someone by Lori Gottlieb
+* Death is but a Dream by Christopher Kerr
+
+**Favorite Albums and EPs**
+* Good to Know by JoJo
+* B7 by Brandy
+* It Was Good Until It Wasn’t by Kehlani
+* Jaguar by Victoria Monet
+* Good News by Megan thee Stallion
+* Mantic by Ro James
+* **Honorable Mentions**
+  * Chilombo (Deluxe) by Jhene Aiko
+  * December Baby by JoJo
+  * The Rarities by Mariah Carey
+  * After the Rain by Yung Baby Tate
+
+**Favorite Films (no particular order)**
+* Parasite
+* Palm Springs
+* The Prom
+* Premature
+* Black is King
+* On the Record (documentary)
+
+**Favorite TV (no particular order)**
+* Black Monday (Showtime)
+* What We Do In the Shadows (FX)
+* Cake (FX)
+* I May Destroy You (HBO)
+* The Flight Attendant (HBO)
+* Little Fires Everywhere (Hulu)
+* P-Valley (Starz)
+* Truth Seekers (Prime Video)
+* Dark (Netflix)
+
+---
