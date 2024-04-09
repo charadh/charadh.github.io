@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I'm Published!'
+title: I'm Published!
 img: BURY YOUR GAYS
 ---
 ![BURY YOUR GAYS](/assets/BYGCovers.jpg){:.featuredImage}
