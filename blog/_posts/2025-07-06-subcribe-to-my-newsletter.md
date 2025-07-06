@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Newsletter: The Elusive Chartreuse
+title: The Elusive Chartreuse Newsletter
 img: The Elusive Chartreuse
 ---
 ![The Elusive Chartreuse](/assets/Collage HP.jpg){:.featuredImage}
@@ -14,7 +14,7 @@ I'm not giving up on my blog yet, but right now I've found newsletters to be mor
   onsubmit="window.open('https://buttondown.com/charleneadh', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Enter your email!</label>
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="Subscribe" />
