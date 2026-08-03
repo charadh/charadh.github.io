@@ -5,6 +5,8 @@ title: Work
 
 ## Theatre
 
+XXX
+
 #### [2025 Hansberry-Lilly Fellowship Winner](https://playbill.com/article/charlene-adhiambo-and-amy-b-tiong-receive-2025-hansberry-lilly-fellowship)
 The Dramatists Guild Foundation (DGF), in partnership with The Lillys, have announced graduate students Charlene Adhiambo and Amy B. Tiong as the 2025 recipients for the Hansberry-Lilly Fellowship. Created in honor of playwright Lorraine Hansberry (A Raisin in the Sun, The Sign in Sidney Brustein's Window), the fellowships ensure that the next generation of women and non-binary playwrights of color are able to follow in Hansberry's footsteps, allowing them to create new work and develop their writing careers regardless of their economic situation. Each recipient receives a $25,000 stipend for each year of matriculation at select writing programs across the country, with up to $75,000 available to subsidize living expenses not covered by tuition. Past recipients of the Hansberry-Lilly Fellowship are Darrin Terpstra and Morgan Webber-Ottey (2024), and Amalia Oliva Rojas and Danielle Stagger (2023).
 
