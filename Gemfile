@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '4.0.6'
-
 gem 'github-pages', group: :jekyll_plugins
 gem 'wdm'
 gem 'github-pages-health-check'
