@@ -1,0 +1,23 @@
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby40-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-niypa3 sitelibdir\=./.gem.20260824-14360-niypa3 clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-niypa3 sitelibdir\=./.gem.20260824-14360-niypa3
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-niypa3 sitelibdir\=./.gem.20260824-14360-niypa3 install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260824-14360-niypa3/racc
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260824-14360-niypa3 sitelibdir\=./.gem.20260824-14360-niypa3 clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

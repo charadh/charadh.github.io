@@ -1,0 +1,24 @@
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+C:/Ruby40-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-tbpg16 sitelibdir\=./.gem.20260824-14360-tbpg16 clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-tbpg16 sitelibdir\=./.gem.20260824-14360-tbpg16
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating ruby_http_parser-x64-mingw-ucrt.def
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-tbpg16 sitelibdir\=./.gem.20260824-14360-tbpg16 install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20260824-14360-tbpg16
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260824-14360-tbpg16 sitelibdir\=./.gem.20260824-14360-tbpg16 clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

@@ -1,0 +1,32 @@
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+C:/Ruby40-x64/bin/ruby.exe extconf.rb
+checking for -lkernel32... yes
+checking for windows.h... yes
+creating Makefile
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-f93jfa sitelibdir\=./.gem.20260824-14360-f93jfa clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-f93jfa sitelibdir\=./.gem.20260824-14360-f93jfa
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating wdm_ext-x64-mingw-ucrt.def
+compiling memory.c
+compiling monitor.c
+compiling entry.c
+compiling queue.c
+compiling rb_change.c
+compiling rb_monitor.c
+compiling utils.c
+compiling wdm.c
+linking shared-object wdm_ext.so
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260824-14360-f93jfa sitelibdir\=./.gem.20260824-14360-f93jfa install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 wdm_ext.so ./.gem.20260824-14360-f93jfa
+
+current directory: C:/users/charlene/charadh.github.io/vendor/bundle/ruby/4.0.0/gems/wdm-0.2.0/ext/wdm
+make DESTDIR\= sitearchdir\=./.gem.20260824-14360-f93jfa sitelibdir\=./.gem.20260824-14360-f93jfa clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
