@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby 'debug'
-
 gem 'github-pages', group: :jekyll_plugins
 gem 'wdm', '~>0.1.0' if Gem.win_platform?
 gem 'github-pages-health-check' '~>1.16.1'
