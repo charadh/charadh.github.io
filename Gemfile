@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
+ruby 'debug'
+
 gem 'github-pages', group: :jekyll_plugins
-gem 'wdm', '~> 0.1.0' if Gem.win_platform?
+gem 'wdm', '~>0.1.0' if Gem.win_platform?
 gem 'github-pages-health-check' '~>1.16.1'
 gem 'jekyll' '~>3.8.7'
 gem 'jekyll-avatar' '0.7.0'
@@ -65,4 +67,4 @@ gem 'minitest' '5.14.1'
 gem 'tzinfo' '1.2.7'
 gem 'zeitwerk' '2.4.0'
 gem 'thread_safe' '0.3.6'
-gem 'faraday-retry' '>=2.4'
+gem 'faraday-retry' '~>2.4'
