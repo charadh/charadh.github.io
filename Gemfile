@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'github-pages', group: :jekyll_plugins
 gem 'wdm'
+gem 'bigdecimal'
 gem 'github-pages-health-check'
 gem 'jekyll'
 gem 'jekyll-avatar'
